@@ -26,8 +26,8 @@ algorithms and protocols, with symmetric and asymmetric key types, enabling secu
 
 <table align="center">
   <tr>
-    <td><p align="center" ><img  src = "images/login.jpg?raw=true" width="400"></p></td>
-    <td><p align="center" ><img  src = "images/register.jpg?raw=true" width="400"></p></td>
+    <td><p align="center" ><img  src = "images/login.jpg?raw=true" width="350"></p></td>
+    <td><p align="center" ><img  src = "images/register.jpg?raw=true" width="350"></p></td>
   </tr>
 </table>
 
@@ -35,9 +35,5 @@ algorithms and protocols, with symmetric and asymmetric key types, enabling secu
 <p align="center" ><img  src = "images/chat2.jpg?raw=true" width = "700"></p>
 
 <h2>Store Details</h2>
-<table align="center">
-  <tr>
-    <td><p align="center" ><img  src = "images/usersdetails.jpg?raw=true" width="600" height="200"></p></td>
-    <td><p align="center" ><img  src = "images/userschat.jpg?raw=true" width="600" height="200"></p></td>
-</tr>
-</table>
+<p align="center" ><img  src = "images/usersdetails.jpg?raw=true" width="700"></p>
+<p align="center" ><img  src = "images/userschat.jpg?raw=true" width="700"></p>
