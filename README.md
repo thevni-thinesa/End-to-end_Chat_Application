@@ -37,7 +37,7 @@ algorithms and protocols, with symmetric and asymmetric key types, enabling secu
 <h2>Store Details</h2>
 <table align="center">
   <tr>
-    <td><p align="center" ><img  src = "images/usersdetails.jpg?raw=true" width="500" height="260"></p></td>
-    <td><p align="center" ><img  src = "images/userschat.jpg?raw=true" width="500" height="260"></p></td>
+    <td><p align="center" ><img  src = "images/usersdetails.jpg?raw=true" width="600" height="240"></p></td>
+    <td><p align="center" ><img  src = "images/userschat.jpg?raw=true" width="600" height="240"></p></td>
 </tr>
 </table>
